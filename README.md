@@ -1,22 +1,13 @@
 ### Hi there 👋
 
-<!--
-**smrco97/smrco97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
-I am a Software Engineer who mainly develops software application projects on ASP.NET Core.
+I am a software developer specializing in ASP.NET for the development of software application projects. Currently, I work as a software engineer.
 
+If I am not working or coding, I am probably
+- Sleeping
+- Calling someone
+- Watching anime
+- Food hunting
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20261152) 
