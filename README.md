@@ -3,12 +3,6 @@
 # 💫 About Me:
 I am a software developer specializing in ASP.NET for the development of software application projects. Currently, I work as a software engineer.
 
-If I am not working or coding, I am probably
-- Sleeping
-- Calling someone
-- Watching anime
-- Food hunting
-
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20261152) 
 
